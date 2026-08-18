@@ -4,7 +4,7 @@ A regression pipeline that predicts "fair" base pay from job-related factors, th
 pay still differs by gender after controlling for those factors — the same adjusted-gap
 methodology real HR/compliance teams use for pay equity audits. Deployed as a live Streamlit app.
 
-**Live demo:** _add your Streamlit Community Cloud URL here once deployed_
+**Live demo:** (https://silly-pens-find.loca.lt/)
 
 ## What this project covers
 
